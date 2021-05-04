@@ -5,8 +5,7 @@
 - 🏋️Some of my other training include: 
      
      ISTQB Foundation Level Software Testing (2020)
-      ![istqb](https://user-images.githubusercontent.com/42991373/116961268-1e4af980-ac60-11eb-8bf4-4b375e3d452e.PNG)
-     
+      ![istqb](https://user-images.githubusercontent.com/42991373/116961474-a7623080-ac60-11eb-9d02-43a291ecdb72.PNG)     
       
      Complete 2020 Web Development Bootcamp (2019-2020)
       ![fullwebdev-eunice](https://user-images.githubusercontent.com/42991373/116961279-286cf800-ac60-11eb-868a-bfa69b34b3c9.jpg)
