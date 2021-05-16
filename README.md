@@ -10,7 +10,7 @@
      Complete 2020 Web Development Bootcamp (2019-2020)
      ![fullwebdev-eunice](https://user-images.githubusercontent.com/42991373/116961279-286cf800-ac60-11eb-868a-bfa69b34b3c9.jpg)
       
-     HarvardX, Statistics for the Life Sciences in R Data Science
+     HarvardX, Statistics for the Life Sciences in R Data Science (2020)
      ![harvardX](https://user-images.githubusercontent.com/42991373/118385893-517e7880-b5d0-11eb-86cf-266d6c093396.PNG)
 
      Mobile Web Development (2020)
