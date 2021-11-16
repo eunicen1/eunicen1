@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @eunicen1.
 - 👀 I’m interested in programming and bioinformatics. 
-- 🌱 I’m currently a bioinformatics engineering student at the UBC. 
-- 💞️ I’m looking to collaborate on PROJECTS
+- 🌱 I’m currently an aspiring bioinformatics engineer. 
 - 🏋️Some of my other training include: 
      
      ISTQB Foundation Level Software Testing (2020)
