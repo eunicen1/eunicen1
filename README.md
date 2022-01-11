@@ -3,6 +3,12 @@
 - 🌱 I’m currently an aspiring bioinformatics engineer. 
 - 🏋️Some of my other training include: 
      
+     MATLAB Signal Processing Onramp (2022)
+     [MATLAB Signal Processing Onramp.pdf](https://github.com/eunicen1/eunicen1/blob/main/certificate2.pdf)
+     
+     MATLAB Onramp (2022)
+     [MATLAB Onramp.pdf](https://github.com/eunicen1/eunicen1/blob/main/certificate1.pdf)
+     
      ISTQB Foundation Level Software Testing (2020)
      ![istqb](https://user-images.githubusercontent.com/42991373/116961474-a7623080-ac60-11eb-9d02-43a291ecdb72.PNG)     
       
