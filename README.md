@@ -3,6 +3,9 @@
 - 🌱 I’m currently an aspiring bioinformatics engineer. 
 - 🏋️Some of my other training include: 
      
+     MATLAB Image Processing Onramp (2022)
+     [MATLAB Image Processing Onramp](https://github.com/eunicen1/eunicen1/blob/main/certificate.pdf)
+     
      MATLAB Signal Processing Onramp (2022)
      [MATLAB Signal Processing Onramp.pdf](https://github.com/eunicen1/eunicen1/blob/main/certificate2.pdf)
      
